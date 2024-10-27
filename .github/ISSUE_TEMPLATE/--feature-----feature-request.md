@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-## 🛠️ 계획된 개발 기능
-어떠한 기능 / 화면을 만드는지 적습니다.
+## 🛠️ Planned Development Features
+Describe what features/screens will be developed.
 
-## 🛠 기능 구현 세부사항
-해당 기능들이 요구하는 사항 등을 적습니다.
+## 🛠 Detailed Implementation Requirements
+Describe the requirements for these features.
 
-## 🛠 참고사항
-해당 기능들에 있어 특이사항을 적습니다.
+## 🛠 Additional Notes
+Describe any special considerations for these features.
 
-## 📝 check-lists
+## 📝 Check-lists
 - [ ]

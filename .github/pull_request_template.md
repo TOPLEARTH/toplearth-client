@@ -1,12 +1,12 @@
-## 관련 이슈
-해결한 문제를 지정하는 Issue Index에 연결해야 합니다.
+## Related Issues
+Link to the Issue Index that identifies the problem being resolved.
 
-- Resolves : 
- 
-## 작업 사항
-해당 Pull Request에서 수행한 작업 목록을 제시해야 합니다.
+- Resolves :
 
-- 
+## Work Details
+List the tasks completed in this Pull Request.
 
-## 참고 사항
-기능을 만들 때 생긴 이슈에 대해서 다른사람들이 참고해야 할 사항을 적습니다.
+-
+
+## Notes
+Describe any issues encountered during development that others should be aware of.
