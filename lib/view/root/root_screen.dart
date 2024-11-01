@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:toplearth/view/base/base_screen.dart';
-import 'package:toplearth/view/calendar/calendar_screen.dart';
 import 'package:toplearth/view/group/group_alone_screen.dart';
 import 'package:toplearth/view/home/home_screen.dart';
 import 'package:toplearth/view/my/my_screen.dart';
@@ -20,7 +19,7 @@ class RootScreen extends BaseScreen<RootViewModel> {
           MyScreen(),
           Text("VS 화면"),
           HomeScreen(),
-          CalendarScreen(),
+          Text("Store"),
           GroupAloneScreen(),
         ],
       ),
